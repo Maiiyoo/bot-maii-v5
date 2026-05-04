@@ -1,0 +1,148 @@
+{
+  "84396778516722": {
+    "id": "84396778516722",
+    "number": "84396778516722",
+    "name": "Mayyy",
+    "koin": 255645,
+    "level": 1,
+    "xp": 0,
+    "daily_last": null,
+    "tambang_last": null,
+    "ternak_last": null,
+    "inventory": {},
+    "banned": false,
+    "joined": "2026-05-03T11:40:43.942Z",
+    "registered": true,
+    "role": "superowner",
+    "bank": {
+      "gold": 0,
+      "diamond": 0
+    }
+  },
+  "182965791371412": {
+    "id": "182965791371412",
+    "number": "182965791371412",
+    "name": "Mayy Louve",
+    "koin": 0,
+    "level": 1,
+    "xp": 0,
+    "daily_last": null,
+    "tambang_last": null,
+    "ternak_last": null,
+    "inventory": {},
+    "bank": {
+      "gold": 0,
+      "diamond": 0
+    },
+    "banned": false,
+    "registered": false,
+    "role": "member",
+    "joined": "2026-05-04T01:38:29.788Z"
+  },
+  "61014406094883": {
+    "id": "61014406094883",
+    "number": "61014406094883",
+    "name": "KANAAA",
+    "koin": 52452,
+    "level": 1,
+    "xp": 0,
+    "daily_last": null,
+    "tambang_last": null,
+    "ternak_last": null,
+    "inventory": {
+      "pelindung": 1
+    },
+    "bank": {
+      "gold": 0,
+      "diamond": 0
+    },
+    "banned": false,
+    "registered": true,
+    "role": "member",
+    "joined": "2026-05-04T02:22:15.440Z"
+  },
+  "33226101924084": {
+    "id": "33226101924084",
+    "number": "33226101924084",
+    "name": "rrippp",
+    "koin": 49678,
+    "level": 1,
+    "xp": 0,
+    "daily_last": null,
+    "tambang_last": null,
+    "ternak_last": null,
+    "inventory": {
+      "pelindung": 1
+    },
+    "bank": {
+      "gold": 0,
+      "diamond": 0
+    },
+    "banned": false,
+    "registered": true,
+    "role": "member",
+    "joined": "2026-05-04T02:22:44.110Z"
+  },
+  "39415468556521": {
+    "id": "39415468556521",
+    "number": "39415468556521",
+    "name": "Fahrizal",
+    "koin": 74485,
+    "level": 1,
+    "xp": 0,
+    "daily_last": null,
+    "tambang_last": null,
+    "ternak_last": null,
+    "inventory": {},
+    "bank": {
+      "gold": 0,
+      "diamond": 0
+    },
+    "banned": false,
+    "registered": true,
+    "role": "member",
+    "joined": "2026-05-04T02:24:21.299Z"
+  },
+  "184035204689937": {
+    "id": "184035204689937",
+    "number": "184035204689937",
+    "name": "bungarorr",
+    "koin": 0,
+    "level": 1,
+    "xp": 0,
+    "daily_last": null,
+    "tambang_last": null,
+    "ternak_last": null,
+    "inventory": {},
+    "bank": {
+      "gold": 0,
+      "diamond": 0
+    },
+    "banned": false,
+    "registered": false,
+    "role": "member",
+    "joined": "2026-05-04T02:24:57.628Z"
+  },
+  "123158405329148": {
+    "id": "123158405329148",
+    "number": "123158405329148",
+    "name": "DappaTuru",
+    "koin": 37745,
+    "level": 1,
+    "xp": 0,
+    "daily_last": null,
+    "tambang_last": null,
+    "ternak_last": null,
+    "inventory": {
+      "pelindung": 1
+    },
+    "bank": {
+      "gold": 0,
+      "diamond": 0
+    },
+    "banned": false,
+    "registered": true,
+    "role": "member",
+    "joined": "2026-05-04T02:26:57.099Z"
+  }
+}
